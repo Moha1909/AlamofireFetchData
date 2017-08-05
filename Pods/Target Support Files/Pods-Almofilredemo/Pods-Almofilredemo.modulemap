@@ -1,0 +1,6 @@
+framework module Pods_Almofilredemo {
+  umbrella header "Pods-Almofilredemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
